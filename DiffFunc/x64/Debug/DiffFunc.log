@@ -1,0 +1,14 @@
+﻿  DiffFunc.cpp
+E:\DiffFunc\DiffFunc\DiffFunc.cpp(30,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\DiffFunc\DiffFunc\DiffFunc.cpp(30,37): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+E:\DiffFunc\DiffFunc\DiffFunc.cpp(31,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\DiffFunc\DiffFunc\DiffFunc.cpp(31,38): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+E:\DiffFunc\DiffFunc\DiffFunc.cpp(56,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\DiffFunc\DiffFunc\DiffFunc.cpp(57,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\DiffFunc\DiffFunc\DiffFunc.cpp(91,32): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+E:\DiffFunc\DiffFunc\DiffFunc.cpp(127,36): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+E:\DiffFunc\DiffFunc\DiffFunc.cpp(139,36): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+E:\DiffFunc\DiffFunc\DiffFunc.cpp(174,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\DiffFunc\DiffFunc\DiffFunc.cpp(175,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\DiffFunc\DiffFunc\DiffFunc.cpp(201,30): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  DiffFunc.vcxproj -> E:\DiffFunc\x64\Debug\DiffFunc.exe

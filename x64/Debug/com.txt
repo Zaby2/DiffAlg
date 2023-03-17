@@ -1,0 +1,1 @@
+E:\DiffFunc\x64\Debug\DiffFunc.exe E:\DiffFunc\x64\Debug\f1.txt E:\DiffFunc\x64\Debug\f2.txt
